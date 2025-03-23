@@ -29,3 +29,21 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
+
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #0078D7;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}

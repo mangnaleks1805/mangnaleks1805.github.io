@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-    alert("Welcome to Krishna's Portfolio!");
-});
+window.onload = function () {
+    confirm("Welcome to Krishna's Portfolio!");
+};
